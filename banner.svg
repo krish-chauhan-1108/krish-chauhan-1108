@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Krish Chauhan</title>
+  <desc id="description">AI and software engineering, with a diagram connecting models, applications, and systems.</desc>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#2b2426" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="#171516"/>
+  <rect x="1" y="1" width="1198" height="298" rx="13" fill="none" stroke="#493439" stroke-width="2"/>
+  <path d="M770 2H1186A12 12 0 0 1 1198 14V286A12 12 0 0 1 1186 298H770Z" fill="url(#grid)"/>
+  <path d="M770 26V274" stroke="#493439" stroke-dasharray="3 5"/>
+  <path d="M52 57h25" stroke="#f05c70" stroke-width="3"/>
+  <g font-family="Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="2">
+    <text x="91" y="62" fill="#d9a6a9">ENGINEERING NOTEBOOK</text>
+    <text x="53" y="244" fill="#ad9fa0">01 / MODELS</text>
+    <text x="220" y="244" fill="#ad9fa0">02 / APPLICATIONS</text>
+    <text x="449" y="244" fill="#ad9fa0">03 / SYSTEMS</text>
+  </g>
+  <text x="49" y="151" fill="#fff2e5" font-family="Arial, Liberation Sans, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Krish Chauhan</text>
+  <text x="53" y="195" fill="#edc5c5" font-family="Arial, Liberation Sans, sans-serif" font-size="27">AI &amp; Software Engineering</text>
+  <g fill="none" stroke-width="1.5">
+    <path d="M875 103h62v48h83m-145 50h62v-50" stroke="#e86476"/>
+    <path d="M842 103h-29m29 98h-29m274-50h60" stroke="#74505a" stroke-dasharray="3 5"/>
+    <circle cx="937" cy="151" r="10" stroke="#86505b"/>
+    <circle cx="937" cy="151" r="4" fill="#f27280" stroke="none"/>
+  </g>
+  <g fill="#211a1d" stroke="#a85060" stroke-width="1.5">
+    <rect x="834" y="81" width="65" height="44" rx="4"/>
+    <rect x="834" y="179" width="65" height="44" rx="4"/>
+    <rect x="1005" y="129" width="99" height="44" rx="4"/>
+  </g>
+  <g fill="#f4d0d1" font-family="Consolas, Liberation Mono, monospace" font-size="14" text-anchor="middle" letter-spacing="1">
+    <text x="866.5" y="108">AI</text>
+    <text x="866.5" y="206">APPS</text>
+    <text x="1054.5" y="156">SYSTEMS</text>
+  </g>
+  <circle cx="1147" cy="151" r="4" fill="#f27280"/>
+</svg>
