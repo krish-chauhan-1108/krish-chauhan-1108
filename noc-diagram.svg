@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" role="img" aria-labelledby="title description">
+  <title id="title">01 / AI NOC Copilot</title>
+  <desc id="description">Network telemetry, predictive analytics, and offline AI brought together in one operator interface.</desc>
+  <rect width="1200" height="252" fill="#201c20"/>
+  <path d="M0 0H1200V6H0Z" fill="#d74a60"/>
+  <g font-family="Consolas, Liberation Mono, monospace" font-size="17" letter-spacing="2" fill="#f4a2ae">
+    <text x="44" y="52">01 / AIR-GAPPED NETWORK OPERATIONS</text>
+  </g>
+  <text x="42" y="121" fill="#fff0e6" font-family="Arial, Liberation Sans, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">AI NOC Copilot</text>
+  <text x="45" y="165" fill="#d7c6c7" font-family="Arial, Liberation Sans, sans-serif" font-size="23">Frontend &amp; systems integration</text>
+  <path d="M46 208H548M624 23V229" fill="none" stroke="#67434c" stroke-dasharray="4 5"/>
+  <g fill="none" stroke="#e86c80" stroke-width="2">
+    <path d="M861 61h45v65h42m-87 0h87m-87 65h45v-65"/>
+    <path d="m938 118 10 8-10 8"/>
+  </g>
+  <g fill="#2b2228" stroke="#b65a6b" stroke-width="1.5">
+    <rect x="664" y="40" width="197" height="42" rx="4"/>
+    <rect x="664" y="105" width="197" height="42" rx="4"/>
+    <rect x="664" y="170" width="197" height="42" rx="4"/>
+  </g>
+  <rect x="955" y="96" width="202" height="60" rx="4" fill="#a51d37"/>
+  <g fill="#ffe4df" font-family="Consolas, Liberation Mono, monospace" font-size="16" text-anchor="middle">
+    <text x="762.5" y="67">NETWORK TELEMETRY</text>
+    <text x="762.5" y="132">PREDICTIVE ANALYTICS</text>
+    <text x="762.5" y="197">OFFLINE AI</text>
+    <text x="1056" y="132">OPERATOR INTERFACE</text>
+  </g>
+</svg>

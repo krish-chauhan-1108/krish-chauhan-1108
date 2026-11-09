@@ -1,39 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348" role="img" aria-labelledby="title description">
   <title id="title">Krish Chauhan</title>
-  <desc id="description">AI and software engineering, with a diagram connecting models, applications, and systems.</desc>
+  <desc id="description">AI and software engineering at Delhi Technological University</desc>
   <defs>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#2b2426" stroke-width="1"/>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#403236" stroke-opacity=".45"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="14" fill="#171516"/>
-  <rect x="1" y="1" width="1198" height="298" rx="13" fill="none" stroke="#493439" stroke-width="2"/>
-  <path d="M770 2H1186A12 12 0 0 1 1198 14V286A12 12 0 0 1 1186 298H770Z" fill="url(#grid)"/>
-  <path d="M770 26V274" stroke="#493439" stroke-dasharray="3 5"/>
-  <path d="M52 57h25" stroke="#f05c70" stroke-width="3"/>
-  <g font-family="Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="2">
-    <text x="91" y="62" fill="#d9a6a9">ENGINEERING NOTEBOOK</text>
-    <text x="53" y="244" fill="#ad9fa0">01 / MODELS</text>
-    <text x="220" y="244" fill="#ad9fa0">02 / APPLICATIONS</text>
-    <text x="449" y="244" fill="#ad9fa0">03 / SYSTEMS</text>
+  <path d="M0 0H1200V348H0Z" fill="#151416"/>
+  <path d="M0 0H1200V348H0Z" fill="url(#grid)"/>
+  <path d="M784 0H1200V348H710Z" fill="#a51d37"/>
+  <path d="M893 0H1200V348H819Z" fill="#bd2340"/>
+  <path d="M848 20H1175V322H776Z" fill="none" stroke="#f49ba8" stroke-opacity=".57"/>
+  <path d="M44 42H70M44 42V68M44 306V280M44 306H70" fill="none" stroke="#ee536b" stroke-width="2"/>
+  <g fill="#f5aeb7" font-family="Consolas, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    <text x="81" y="67">KRISH / GITHUB PROFILE</text>
+    <text x="81" y="283" fill="#cfc3c3">DELHI TECHNOLOGICAL UNIVERSITY</text>
   </g>
-  <text x="49" y="151" fill="#fff2e5" font-family="Arial, Liberation Sans, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">Krish Chauhan</text>
-  <text x="53" y="195" fill="#edc5c5" font-family="Arial, Liberation Sans, sans-serif" font-size="27">AI &amp; Software Engineering</text>
-  <g fill="none" stroke-width="1.5">
-    <path d="M875 103h62v48h83m-145 50h62v-50" stroke="#e86476"/>
-    <path d="M842 103h-29m29 98h-29m274-50h60" stroke="#74505a" stroke-dasharray="3 5"/>
-    <circle cx="937" cy="151" r="10" stroke="#86505b"/>
-    <circle cx="937" cy="151" r="4" fill="#f27280" stroke="none"/>
+  <text x="74" y="171" fill="#fff4e8" font-family="Arial, Liberation Sans, sans-serif" font-size="83" font-weight="700" letter-spacing="-4">Krish Chauhan</text>
+  <text x="81" y="223" fill="#f4a8b2" font-family="Arial, Liberation Sans, sans-serif" font-size="32" font-weight="700">AI &amp; Software Engineering</text>
+  <g fill="none" stroke="#ffe3de" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M894 111v124m65-124-65 65 69 59"/>
+    <path d="M1084 117a69 69 0 1 0 0 113"/>
   </g>
-  <g fill="#211a1d" stroke="#a85060" stroke-width="1.5">
-    <rect x="834" y="81" width="65" height="44" rx="4"/>
-    <rect x="834" y="179" width="65" height="44" rx="4"/>
-    <rect x="1005" y="129" width="99" height="44" rx="4"/>
+  <g fill="#ffdfda" font-family="Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="2" text-anchor="middle">
+    <text x="977" y="69">AI / APPS / SYSTEMS</text>
+    <text x="977" y="289">BUILD LOG</text>
   </g>
-  <g fill="#f4d0d1" font-family="Consolas, Liberation Mono, monospace" font-size="14" text-anchor="middle" letter-spacing="1">
-    <text x="866.5" y="108">AI</text>
-    <text x="866.5" y="206">APPS</text>
-    <text x="1054.5" y="156">SYSTEMS</text>
-  </g>
-  <circle cx="1147" cy="151" r="4" fill="#f27280"/>
+  <circle cx="1136" cy="66" r="5" fill="#ffdfda"/>
 </svg>
